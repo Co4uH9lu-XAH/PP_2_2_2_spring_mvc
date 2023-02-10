@@ -10,20 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42759fa3-94d4-4e58-a2cd-71051ff4c800" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/DAO/CarsDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarsDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/DAO/CarsDAOImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/dao/CarsDAOImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/DAO/CarsDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/DAO/CarsDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/DAO/CarsDAOImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/DAO/CarsDAOImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/CarController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/CarServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/CarServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/cars.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/cars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/DAO/CarsDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/DAO/CarsDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/DAO/CarsDAOImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/DAO/CarsDAOImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/controller/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/controller/CarController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/service/CarServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/web/service/CarServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +74,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "spring.configuration.checksum": "c5611d5c8c9f9e897d6bf480c0e77655",
     "vue.rearranger.settings.migration": "true"
   }
@@ -191,7 +180,8 @@
       <workItem from="1675848824810" duration="5817000" />
       <workItem from="1675860536028" duration="2824000" />
       <workItem from="1675865798628" duration="13826000" />
-      <workItem from="1676054510073" duration="1411000" />
+      <workItem from="1676054510073" duration="1786000" />
+      <workItem from="1676056317805" duration="729000" />
     </task>
     <servers />
   </component>
