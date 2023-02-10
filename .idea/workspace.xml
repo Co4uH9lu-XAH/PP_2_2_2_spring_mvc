@@ -10,8 +10,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42759fa3-94d4-4e58-a2cd-71051ff4c800" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/DAO/CarsDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/DAO/CarsDAOImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/AppInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/CarController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/model/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/CarService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/CarServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-aop-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-beans-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-context-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-core-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-expression-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-jcl-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-web-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-webmvc-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/thymeleaf-3.0.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/thymeleaf-spring5-3.0.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/cars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/DAO/CarsDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/DAO/CarsDAOImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/config/AppInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/controller/CarController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/model/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/service/CarService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/service/CarServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +219,7 @@
       <workItem from="1675860536028" duration="2824000" />
       <workItem from="1675865798628" duration="13826000" />
       <workItem from="1676054510073" duration="1786000" />
-      <workItem from="1676056317805" duration="729000" />
+      <workItem from="1676056317805" duration="1068000" />
     </task>
     <servers />
   </component>
